@@ -1,4 +1,4 @@
-name: CI
+name:Ploxx73/pdf.js
 on: [push, pull_request]
 jobs:
   test:
